@@ -1,7 +1,7 @@
 <!-- ===================== HEADER (animated wave) ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ahmed%20Ibrahim&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descSize=20&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ahmed%20Ibrahim&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%7C%20DevOps%20%7C%20Backend%20Engineer&descSize=20&descAlignY=58" width="100%" alt="header" />
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" alt="hi">
 
