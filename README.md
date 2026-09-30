@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ahmed Adel Ibrahim</h1>
 
-<!--
-**ahmedIbrahim2030/ahmedIbrahim2030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Cloud & Microsoft 365 Engineer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about Azure, Microsoft 365 and PowerShell Automation
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- ☁️ Microsoft 365 Engineer
+- 🔐 Working with Entra ID, Exchange Online & Teams
+- ⚙️ PowerShell Automation Enthusiast
+- 🌱 Learning Azure & Terraform
+- 🚀 Interested in Cloud Infrastructure and DevOps
+
+---
+
+## 🛠️ Tech Stack
+
+- Microsoft 365
+- Azure
+- Entra ID
+- PowerShell
+- Python
+- Git
+- GitHub
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ahmedIbrahim2030&show_icons=true&theme=tokyonop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedIbrahim2030ct&theme=tokyonight
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user&theme=tokyonight
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/ahmed-adel-abdelrahman
