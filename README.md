@@ -136,17 +136,6 @@ Production-ready tour booking application built with **Node.js, Express, MongoDB
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedIbrahim2030&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/ahmedIbrahim2030)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedIbrahim2030&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/ahmedIbrahim2030)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahmedIbrahim2030&theme=github-dark-blue&hide_border=true&background=0d1117)](https://github.com/ahmedIbrahim2030)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedIbrahim2030&theme=github-compact&bg_color=0d1117&hide_border=true&area=true)](https://github.com/ahmedIbrahim2030)
-
----
-
 ## 🔗 Connect with me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aahmedibrahim.2028@gmail.com)
