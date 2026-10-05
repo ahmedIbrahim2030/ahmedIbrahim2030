@@ -30,7 +30,7 @@ Computer Science graduate focused on **Cloud & DevOps**, with hands-on experienc
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-Shell%20Scripting-4EAA25?style=flat-square)
 
-### 🟢 Backend Development *(new — from the Natours course)*
+### 🟢 Backend Development
 
 ![backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark)
 
